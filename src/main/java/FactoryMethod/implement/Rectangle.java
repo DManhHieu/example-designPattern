@@ -1,4 +1,4 @@
-package FactoryMethod.implemen;
+package FactoryMethod.implement;
 
 import FactoryMethod.Shape;
 

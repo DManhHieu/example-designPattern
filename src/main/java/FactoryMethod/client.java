@@ -1,6 +1,6 @@
 package FactoryMethod;
 
-import FactoryMethod.implemen.ShapeCreator;
+import FactoryMethod.implement.ShapeCreator;
 
 public class client {
     public static void main(String[] args){
